@@ -9,6 +9,7 @@ using std::cout;
 using std::endl;
 int main(viod)
 {
+	cout << "welcome to earth" << endl;
 	printf("hello world\n");
 	return 0;
 }
