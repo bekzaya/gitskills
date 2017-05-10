@@ -7,3 +7,5 @@ Branch management.
 duoren xiezuo
 修复 bug。
 多人协作
+
+git checkout -b dev origin/dev
