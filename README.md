@@ -6,4 +6,9 @@ Branch management.
 
 duoren xiezuo
 修复 bug。
+<<<<<<< HEAD
 多人协作
+=======
+
+多人协作（我）
+>>>>>>> abe18436867fa0bc56a481e593401e93a56a6bcf
