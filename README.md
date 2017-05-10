@@ -9,3 +9,4 @@ duoren xiezuo
 多人协作
 
 xiaohuoban has push origin dev
+git checkout -b dev origin/dev
